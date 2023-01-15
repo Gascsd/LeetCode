@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
+//https://leetcode.cn/problems/min-max-game/
 int Max(int a, int b)
 {
     return a > b ? a : b;
