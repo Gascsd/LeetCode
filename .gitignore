@@ -17,6 +17,7 @@ bin-release/
 *.exe
 *.sln
 *.vcxproj
+*.xcodeproj
 *.filters
 *.user
 *.suo
